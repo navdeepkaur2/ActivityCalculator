@@ -20,3 +20,5 @@ Each activity must record the date that the activity took place. When new activi
 * Time
 
 Time is collected in minutes but must be displayed in the format 4hrs. 2mins. (including both hours and minutes). If there are 0 hours, then only minutes should be displayed.
+
+You can access my website at: https://venerable-sable-7452ea.netlify.app/
